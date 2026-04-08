@@ -161,8 +161,8 @@ src/
 
 MIT
 
-CRÉDITOS:
-Improved upon the original work of Gustavo Dias: https://github.com/gustavodiasdev/opencode-qwencode-auth
+Original work of Gustavo Dias:
+https://github.com/gustavodiasdev/opencode-qwencode-auth
 
 ---
 
