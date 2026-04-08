@@ -136,8 +136,8 @@ OPENCODE_QWEN_DEBUG=1 opencode
 
 ```bash
 # Clone o repositório
-git clone https://github.com/gustavodiasdev/opencode-qwencode-auth.git
-cd opencode-qwencode-auth
+git clone https://github.com/yuichiinumaru/qwencode-auth.git
+cd qwencode-auth
 
 # Instale dependências
 bun install
