@@ -53,11 +53,7 @@ opencode auth login
 
 <img width="389" height="181" alt="image" src="https://github.com/user-attachments/assets/96d31119-32b9-4e9f-965d-e385e0898e49" />
 
-### 2. Selecione o Provider
-
-Escolha **"Other"** e digite `qwen code`.
-
-### 3. Autentique
+### 2. Autentique
 
 Selecione **"Qwen Code (qwen.ai OAuth)"**.
 
