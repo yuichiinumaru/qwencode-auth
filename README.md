@@ -50,7 +50,7 @@ opencode auth login
 
 ### 2. Select Provider
 
-Choose **"Other"** and type `qwen-code`.
+Choose **"Other"** and type `qwen`.
 
 ### 3. Authenticate
 
@@ -69,12 +69,6 @@ Select **"Qwen Code (qwen.ai OAuth)"**.
 | `coder-model` | 1M tokens | Up to 64K tokens | Qwen 3.6 Plus — video & vision support |
 
 > **Note:** This plugin aligns with the official `qwen-code` client. The `coder-model` alias maps to Qwen 3.6 Plus with hybrid reasoning, vision, and video input capabilities.
-
-### Using the model
-
-```bash
-opencode --provider qwen-code --model coder-model
-```
 
 ## 🔧 Troubleshooting
 
