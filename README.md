@@ -29,30 +29,6 @@ chmod +x install.sh
 ```
 
 This script will automatically install dependencies, build the plugin, and register it in your `opencode.json` configuration.
-## ⚠️ Limits & Quotas
-
-### Alternative installation methods
-
-#### From npm (explicit version)
-```json
-{
-  "plugin": ["opencode-qwencode-auth@latest"]
-}
-```
-
-#### From Git repository
-```json
-{
-  "plugin": ["opencode-qwencode-auth@git+https://github.com/gustavodiasdev/opencode-qwencode-auth.git#main"]
-}
-```
-
-#### Specific version
-```json
-{
-  "plugin": ["opencode-qwencode-auth@1.3.0"]
-}
-```
 
 ## ⚠️ Limits & Quotas
 
