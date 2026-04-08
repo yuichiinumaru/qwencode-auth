@@ -24,6 +24,19 @@
 
 ## 🚀 Installation
 
+### Quick Local Installation (Recommended)
+
+If you have cloned this repository, simply run the included installation script:
+
+```bash
+chmod +x install.sh
+./install.sh
+```
+
+This script will automatically install dependencies, build the plugin, and register it in your `opencode.json` configuration.
+
+### Manual Installation
+
 Edit `~/.config/opencode/opencode.json`:
 
 ```json

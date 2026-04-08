@@ -166,3 +166,17 @@ MIT
 <p align="center">
   Feito com ❤️ para a comunidade OpenCode
 </p>
+
+**Créditos:** Este projeto é um fork do trabalho original de **Gustavo Dias**: [gustavodiasdev/opencode-qwencode-auth](https://github.com/gustavodiasdev/opencode-qwencode-auth)
+ index.ts            # Entry point do plugin
+```
+
+## 📄 Licença
+
+MIT
+
+---
+
+<p align="center">
+  Feito com ❤️ para a comunidade OpenCode
+</p>
