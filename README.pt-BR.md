@@ -24,38 +24,16 @@
 
 ## 🚀 Instalação
 
-Edite `~/.config/opencode/opencode.json`:
+### Instalação Local Rápida (Recomendado)
 
-```json
-{
-  "plugin": ["opencode-qwencode-auth"]
-}
+Se você clonou este repositório, basta executar o script de instalação incluso:
+
+```bash
+chmod +x install.sh
+./install.sh
 ```
 
-**É isso!** O OpenCode instalará o plugin automaticamente ao iniciar.
-
-### Métodos alternativos de instalação
-
-#### Via npm (versão explícita)
-```json
-{
-  "plugin": ["opencode-qwencode-auth@latest"]
-}
-```
-
-#### Via repositório Git
-```json
-{
-  "plugin": ["opencode-qwencode-auth@git+https://github.com/gustavodiasdev/opencode-qwencode-auth.git#main"]
-}
-```
-
-#### Versão específica
-```json
-{
-  "plugin": ["opencode-qwencode-auth@1.3.0"]
-}
-```
+Este script irá instalar as dependências, compilar o plugin e registrá-lo automaticamente no seu arquivo `opencode.json`.
 
 ## ⚠️ Limites e Quotas
 
@@ -168,15 +146,3 @@ MIT
 </p>
 
 **Créditos:** Este projeto é um fork do trabalho original de **Gustavo Dias**: [gustavodiasdev/opencode-qwencode-auth](https://github.com/gustavodiasdev/opencode-qwencode-auth)
- index.ts            # Entry point do plugin
-```
-
-## 📄 Licença
-
-MIT
-
----
-
-<p align="center">
-  Feito com ❤️ para a comunidade OpenCode
-</p>
