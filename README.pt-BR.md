@@ -1,14 +1,12 @@
 # 🤖 Qwen Code OAuth Plugin para OpenCode
 
-![npm version](https://img.shields.io/npm/v/opencode-qwencode-auth)
-![License](https://img.shields.io/github/license/gustavodiasdev/opencode-qwencode-auth)
-![GitHub stars](https://img.shields.io/github/stars/gustavodiasdev/opencode-qwencode-auth)
 
-<p align="center">
-  <img src="assets/screenshot.png" alt="OpenCode com Qwen Code" width="800">
-</p>
+<img width="799" height="562" alt="image" src="https://github.com/user-attachments/assets/44804b34-ca7f-4ae0-b16a-a5e13bd29001" />
 
-**Autentique o OpenCode CLI com sua conta qwen.ai.** Este plugin permite usar o modelo `coder-model` com **1.000 requisições gratuitas por dia** — powered by Qwen 3.6 Plus com suporte a vídeo e visão. Sem API key ou cartão de crédito!
+
+**Autentique o OpenCode CLI com sua conta qwen.ai.** Este plugin permite usar o modelo `coder-model` com **1.000 requisições gratuitas por dia** — powered by Qwen 3.6 Plus com suporte a vídeo e visão. Sem API key ou cartão de crédito.
+
+**Suporta o novo Qwen 3.6**
 
 [🇺🇸 Read in English](./README.md) | [📜 Changelog](./CHANGELOG.md)
 
