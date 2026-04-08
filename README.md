@@ -48,11 +48,9 @@ Run the following command to start the OAuth flow:
 opencode auth login
 ```
 
-### 2. Select Provider
+<img width="389" height="181" alt="image" src="https://github.com/user-attachments/assets/1f5eea3c-9428-4d3b-8c8b-da3a7a9fbf05" />
 
-Choose **"Other"** and type `qwen`.
-
-### 3. Authenticate
+### 2. Authenticate
 
 Select **"Qwen Code (qwen.ai OAuth)"**.
 
